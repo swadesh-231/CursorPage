@@ -41,7 +41,6 @@ The goal of this project was to verify the potential of raw HTML/CSS without rel
 
 1. Clone the repository.
 2. Open `index.html` in any modern web browser.
-3. That's it! No build steps or `npm install` required.
 
 ---
 *Note: This is an educational project for learning advanced HTML/CSS layout techniques.*
